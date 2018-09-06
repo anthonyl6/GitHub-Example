@@ -38,7 +38,7 @@
                                 <textInputTraits key="textInputTraits"/>
                             </textField>
                             <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="diamond.png" translatesAutoresizingMaskIntoConstraints="NO" id="7gl-5M-3sD">
-                                <rect key="frame" x="67" y="456" width="240" height="128"/>
+                                <rect key="frame" x="67" y="401" width="240" height="128"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                             </imageView>
                         </subviews>
